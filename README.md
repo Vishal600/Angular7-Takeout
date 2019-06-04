@@ -1,3 +1,7 @@
+# To Run the Project
+  
+Type " npm install " into the terminal window & Navigate to ./src/app/orders/order-items. Post which right click and add a new CSS file " order-items.component.css ".
+
 # Takeout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
